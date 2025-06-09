@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Kamil Khaidir. I'm a Software Testing Professional, Project Manager, and Scrum Master currently exploring AI and Machine Learning
+My name is Kamil Khaidir. I'm a Software Testing Professional, Project Manager, and Scrum Master with growing interest in AI and Machine Learning
 
 ## 📂 My Projects
 - [XOR MLP (Pure Python)](https://github.com/kamilkhaidir/xor-mlp-python) — Implemented an MLP from scratch using only the `math` module to learn XOR.
