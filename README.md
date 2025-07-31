@@ -5,7 +5,7 @@ My name is Kamil Khaidir. I'm a Software Testing Professional, Project Manager, 
 ## 📂 My Projects
 
 ### 🔧 Test Automation
-- [**Playwright Automation Framework**](https://github.com/kamilkhaidir/playwright_automation_demo) - Advanced test automation framework with API error monitoring, Page Object Model, and comprehensive error handling
+- [**Playwright Automation Framework**](https://github.com/kamilkhaidir/playwright_automation_demo) - DEMO - Test automation framework with API error monitoring, Page Object Model, and comprehensive error handling
   
 ### 🤖 AI/ML Projects
 - [**Image Classification (36 Classes)**](https://github.com/kamilkhaidir/ImageClassification) - Multi-class image classification system
