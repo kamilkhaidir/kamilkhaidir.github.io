@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Kamil Khaidir. I'm a Software Testing Professional, Project Manager, and Scrum Master with growing interest in AI and Machine Learning.
+My name is Kamil Khaidir Roslan. I'm a Software Testing Professional, Project Manager, and Scrum Master with growing interest in AI and Machine Learning.
 
 ## 📂 My Projects
 
